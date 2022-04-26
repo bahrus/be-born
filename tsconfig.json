@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"sourceMap": false,
+		"experimentalDecorators": false,
+		"newLine": "LF",
+		"strict": true,
+		"watch": true
+	},
+	"files": [
+		"be-born.ts",
+		//"playwright.config.ts",
+		//"tests/test1.spec.mts",
+	],
+	"exclude":[
+		"node_modules"
+	]
+
+}
